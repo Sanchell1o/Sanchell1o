@@ -19,7 +19,4 @@ My name is **Aleksandr**, I'm 19 years old, and I'm passionate about programming
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanchell1o&show_icons=true&theme=tokyonight)
 
 ![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanchell1o&layout=compact&theme=tokyonight)
-START_SECTION:waka
-END_SECTION:waka
-
-
+[![wakatime](https://wakatime.com/badge/user/018b8259-0f6e-434e-bd17-7042c3d58f70.svg)](https://wakatime.com/@018b8259-0f6e-434e-bd17-7042c3d58f70)
