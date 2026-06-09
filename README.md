@@ -1,6 +1,6 @@
 # Hey! 👋
 
-My name is **Aleksandr**, I'm 19 years old, and I'm passionate about programming, analytics, and machine learning. I'm currently studying at **ITMO University**, focusing on Python and C++. I'm also diving deep into machine learning. 🎓
+My name is **Aleksandr**, I'm 20 years old, and I'm passionate about programming, analytics, and machine learning. I'm currently studying at **ITMO University**, focusing on Python and C++. I'm also diving deep into machine learning. 🎓
 
 
 ### 💻 Languagues and tools:
